@@ -8,7 +8,7 @@
 
 # Install BGP Stream
 
-You can visit the official [install page](https://bgpstream.caida.org/docs/install) to see if there is a different approach you want to take. There is also a [docker](https://hub.docker.com/r/caida/bgpstream) image.
+You can visit the official [install page](https://bgpstream.caida.org/docs/install) to see if there is a difvferent approach you want to take. There is also a [docker](https://hub.docker.com/r/caida/bgpstream) image.
 
 The follow outlines compiling it from source for simplicity across distros.
 
@@ -35,3 +35,6 @@ Lastly, for Python support, `pip install pybgpstream` *([documentation](https://
 **NOTE:** `sudo apt-get install python3-pybgpstream`
 
 **NOTE:** The [Broker HTTP API](https://bgpstream.caida.org/docs/api/broker) may come to use...
+___
+
+###### Mirrors for this repository: [acid.vegas](https://git.acid.vegas/bgp) • [SuperNETs](https://git.supernets.org/acidvegas/bgp) • [GitHub](https://github.com/acidvegas/bgp) • [GitLab](https://gitlab.com/acidvegas/bgp) • [Codeberg](https://codeberg.org/acidvegas/bgp)
